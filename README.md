@@ -1,2 +1,2 @@
-# cs224n-2020-assignments
-# By Zhang, Genyu
+# CS224n-Winter-2019-Assignments
+## By Zhang, Genyu
